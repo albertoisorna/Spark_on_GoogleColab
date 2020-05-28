@@ -1,9 +1,9 @@
 # Spark on GoogleColab
 This is an example to how run Spark on Google Colab
 
-If you want just the installation of Spark and put your own code go to PySpark_Colab_Example.ipynb
+If you want just the installation of Spark and put your own code go to **PySpark_Colab_Just_Install.ipynb**
 
-If you want a full example that you just have to press play go to ...
+If you want a full example that you just have to press play go to **PySpark_Colab_Example.ipynb**
 
 ## Steps to run the example
 
