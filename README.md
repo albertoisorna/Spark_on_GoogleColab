@@ -15,4 +15,4 @@ If you want a full example that you just have to press play go to ...
 
 As Spark runs with Java8 select java8, usually option 2. See Image bellow:
 
-![]images/java.png
+![](images/java.png)
