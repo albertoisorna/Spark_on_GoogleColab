@@ -11,3 +11,8 @@ If you want a full example that you just have to press play go to ...
 
 ![](images/img.png)
 
+2. Run the code. In the install it will ask you wich Java and Javac version you want to use. 
+
+As Spark runs with Java8 select java8, usually option 2. See Image bellow:
+
+![]images/java.png
