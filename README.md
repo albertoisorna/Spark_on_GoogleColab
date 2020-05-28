@@ -9,5 +9,5 @@ If you want a full example that you just have to press play go to ...
 
 1. Open the file *PySpark_Colab_Example.ipynb* from Google Colab (via github). 
 
-![] (images/img.jpg)
+![] (images/img.png)
 
