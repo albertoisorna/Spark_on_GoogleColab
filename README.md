@@ -7,7 +7,7 @@ If you want a full example that you just have to press play go to ...
 
 ## Steps to run the example
 
-1. Clone the repository in your Google Colab
+1. Clone the repository in your Google Colab.
 Download the repo and upoload to your Colab or just run the following lines:
 ~~~ rb
 !git clone https://github.com/albertoisorna/Spark_on_GoogleColab.git  #download
